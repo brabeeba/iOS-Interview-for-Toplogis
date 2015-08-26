@@ -19,7 +19,9 @@ def index():
 		abort(400)
 
 	for x in xrange(request.json['startNum'],request.json['endNum'] + 1):
-		result.append(someObject())
+		temp = someObject()
+		temp['item'] = x
+		result.append(temp)
 
 
 	return jsonify({'result': result})
