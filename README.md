@@ -110,10 +110,14 @@ you will see response similar to the following
 
 完成後應如下圖所示:
 
+![Result](/Result.gif)
+
 ### Challenge
 Your goal is to create a UITableView in which the nth UITableViewCell contains the data of nth item in API. At the upper left corner of cell, you should display "Left: data from API". At the center, you should display "Middle: data from API". At the bottom right corner, you should display "Right: data from API". Your UITableView should be able to infinitely scrolling.
 
 After you finish, you should see following:
+
+![Result](/Result.gif)
 
 
 
