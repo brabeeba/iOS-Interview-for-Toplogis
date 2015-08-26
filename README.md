@@ -109,11 +109,13 @@ you will see response similar to the following
 你的目標是做出一個UITableView，其中第nth個UITableViewCell裡包含API第n個item的資料。左上角寫著"Left: 待填"，中間是"Middle: 待填"，右下是"Right: 待填"。你的UITableView要能做到無限滑動
 
 完成後應如下圖所示:
+![Result](/Result.png)
 
 ### Challenge
 Your goal is to create a UITableView in which the nth UITableViewCell contains the data of nth item in API. At the upper left corner of cell, you should display "Left: data from API". At the center, you should display "Middle: data from API". At the bottom right corner, you should display "Right: data from API". Your UITableView should be able to infinitely scrolling.
 
 After you finish, you should see following:
+![Result](/Result.png)
 
 
 
