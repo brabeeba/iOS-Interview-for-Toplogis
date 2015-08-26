@@ -6,7 +6,7 @@ There are two parts of interview. The first part is short answer. You will be te
 
 ## 簡答題
 1. 什麼是AutoLayout? 為什麼要用AutoLayout？
-2. 你有連過API的經驗嗎？你用什麼工具/Library? 例: NSURLRequest, NSURLSession, AFNetworking
+2. 你有連過API的經驗嗎？你用什麼Framework/Library? 
 3. 舉出三種在iOS上儲存資料的方法
 4. 簡述Singleton pattern與使用的時機
 5. 簡述Key Value Observing和使用的時機
@@ -14,7 +14,7 @@ There are two parts of interview. The first part is short answer. You will be te
 
 ## Short Answer
 1. What's AutoLayout? Why AutoLayout?
-2. Do you have experience with API? What framework do you use to connect? Ex: NSURLRequest, NSURLSession, AFNetworking
+2. Do you have experience with API? What framework do you use to connect? 
 3. Write down three ways to persistently store data in iOS
 4. What's Singleton pattern? When to use it?
 5. What's Key Value Observing? When to use it?
@@ -111,11 +111,20 @@ you will see response similar to the following
 完成後應如下圖所示:
 ![Result](/Result.png)
 
+![Result](/Result.gif)
+
 ### Challenge
 Your goal is to create a UITableView in which the nth UITableViewCell contains the data of nth item in API. At the upper left corner of cell, you should display "Left: data from API". At the center, you should display "Middle: data from API". At the bottom right corner, you should display "Right: data from API". Your UITableView should be able to infinitely scrolling.
 
 After you finish, you should see following:
 ![Result](/Result.png)
+
+![Result](/Result.gif)
+
+
+
+
+The questions were written with :heart: by Brabeeba Wang
 
 
 
